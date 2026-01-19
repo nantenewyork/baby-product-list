@@ -155,11 +155,13 @@ nav {
 }
 
 .categories h2,
-.popular-products h2 {
+.popular-products h2,
+.guide-section h2 {
     font-family: var(--font-heading);
     color: #555;
     margin-bottom: 2rem;
     font-size: 1.8rem;
+    text-align: center;
 }
 
 .category-grid {
@@ -279,6 +281,69 @@ nav {
 
 .btn-more:hover {
     background-color: #E2F0CB;
+}
+
+/* Guide Section */
+.guide-section {
+    max-width: 1000px;
+    margin: 0 auto 5rem;
+    padding: 0 2rem;
+}
+
+.guide-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 2rem;
+}
+
+.guide-card {
+    background: var(--white);
+    border-radius: 20px;
+    padding: 2rem;
+    text-decoration: none;
+    color: var(--text-color);
+    box-shadow: 0 4px 15px rgba(0,0,0,0.05);
+    transition: transform 0.3s;
+    display: flex;
+    align-items: center;
+    gap: 1.5rem;
+    border: 1px solid #f0f0f0;
+}
+
+.guide-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 25px rgba(0,0,0,0.1);
+    border-color: var(--primary-color);
+}
+
+.guide-icon {
+    font-size: 3rem;
+    background-color: #FFF5F5;
+    width: 80px;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+}
+
+.guide-info h3 {
+    font-family: var(--font-heading);
+    color: #444;
+    margin-bottom: 0.5rem;
+    font-size: 1.2rem;
+}
+
+.guide-info p {
+    font-size: 0.9rem;
+    color: #777;
+    margin-bottom: 1rem;
+}
+
+.link-text {
+    font-weight: bold;
+    color: #FF9AA2;
+    font-size: 0.9rem;
 }
 
 /* Newsletter */
