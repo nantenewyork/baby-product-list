@@ -6,28 +6,29 @@
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
-  <url>
-    <loc>https://baby-product-list.pages.dev/baby-bottle-guide.html</loc>
-    <lastmod>2026-01-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://baby-product-list.pages.dev/stroller-guide.html</loc>
-    <lastmod>2026-01-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://baby-product-list.pages.dev/baby-bath-guide.html</loc>
-    <lastmod>2026-01-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://baby-product-list.pages.dev/baby-bed-guide.html</loc>
-    <lastmod>2026-01-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
+  <!-- 수유/이유식 -->
+  <url><loc>https://baby-product-list.pages.dev/baby-bottle-guide.html</loc><lastmod>2026-01-19</lastmod></url>
+  <url><loc>https://baby-product-list.pages.dev/baby-formula-pot-guide.html</loc><lastmod>2026-01-19</lastmod></url>
+  <url><loc>https://baby-product-list.pages.dev/sterilizer-guide.html</loc><lastmod>2026-01-19</lastmod></url>
+  <url><loc>https://baby-product-list.pages.dev/baby-chair-guide.html</loc><lastmod>2026-01-19</lastmod></url>
+  <!-- 목욕/위생 -->
+  <url><loc>https://baby-product-list.pages.dev/baby-bath-guide.html</loc><lastmod>2026-01-19</lastmod></url>
+  <url><loc>https://baby-product-list.pages.dev/diaper-bin-guide.html</loc><lastmod>2026-01-19</lastmod></url>
+  <url><loc>https://baby-product-list.pages.dev/baby-lotion-guide.html</loc><lastmod>2026-01-19</lastmod></url>
+  <url><loc>https://baby-product-list.pages.dev/nasal-aspirator-guide.html</loc><lastmod>2026-01-19</lastmod></url>
+  <!-- 외출용품 -->
+  <url><loc>https://baby-product-list.pages.dev/stroller-guide.html</loc><lastmod>2026-01-19</lastmod></url>
+  <url><loc>https://baby-product-list.pages.dev/car-seat-guide.html</loc><lastmod>2026-01-19</lastmod></url>
+  <url><loc>https://baby-product-list.pages.dev/baby-carrier-guide.html</loc><lastmod>2026-01-19</lastmod></url>
+  <url><loc>https://baby-product-list.pages.dev/diaper-bag-guide.html</loc><lastmod>2026-01-19</lastmod></url>
+  <!-- 가구/침구 -->
+  <url><loc>https://baby-product-list.pages.dev/baby-bed-guide.html</loc><lastmod>2026-01-19</lastmod></url>
+  <url><loc>https://baby-product-list.pages.dev/baby-playmat-guide.html</loc><lastmod>2026-01-19</lastmod></url>
+  <url><loc>https://baby-product-list.pages.dev/baby-clothes-guide.html</loc><lastmod>2026-01-19</lastmod></url>
+  <url><loc>https://baby-product-list.pages.dev/baby-pillow-guide.html</loc><lastmod>2026-01-19</lastmod></url>
+  <!-- 놀이/가전 -->
+  <url><loc>https://baby-product-list.pages.dev/baby-bouncer-guide.html</loc><lastmod>2026-01-19</lastmod></url>
+  <url><loc>https://baby-product-list.pages.dev/baby-mobile-guide.html</loc><lastmod>2026-01-19</lastmod></url>
+  <url><loc>https://baby-product-list.pages.dev/baby-monitor-guide.html</loc><lastmod>2026-01-19</lastmod></url>
+  <url><loc>https://baby-product-list.pages.dev/air-purifier-humidifier-guide.html</loc><lastmod>2026-01-19</lastmod></url>
 </urlset>
