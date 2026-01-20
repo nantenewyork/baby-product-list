@@ -6,6 +6,10 @@
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
+  <!-- 필수 법적 고지 및 소개 -->
+  <url><loc>https://baby-product-list.pages.dev/about.html</loc><lastmod>2026-01-19</lastmod></url>
+  <url><loc>https://baby-product-list.pages.dev/privacy.html</loc><lastmod>2026-01-19</lastmod></url>
+  <url><loc>https://baby-product-list.pages.dev/terms.html</loc><lastmod>2026-01-19</lastmod></url>
   <!-- 수유/이유식 -->
   <url><loc>https://baby-product-list.pages.dev/baby-bottle-guide.html</loc><lastmod>2026-01-19</lastmod></url>
   <url><loc>https://baby-product-list.pages.dev/baby-formula-pot-guide.html</loc><lastmod>2026-01-19</lastmod></url>
